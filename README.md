@@ -30,8 +30,4 @@ The models are trained and evaluated on the same training and testing datasets t
 - pandas
 - matplotlib
 - seaborn
-
-You can install the necessary dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
+- numpy
